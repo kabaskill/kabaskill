@@ -1,7 +1,10 @@
 # Hello World!
 
 ### I am Oguz...
-- a Sound designer
+
+- studying to become a Web Developer at Neue Fische and working on my Master's Degree on Expanded Media at Hochschule Darmstadt
+
+- a Sound Designer
 - a Musician
 - a Gamer
 - a math & astronomy nerd
@@ -13,7 +16,11 @@
 
 ---
 
-### Here's a meme to cheer you up
+### Do you like pirates?
+- [ ] Who doesn't?
+- [ ] Yes!
+
+---
 
 ![dustin hoffman hook](https://media.tenor.com/CviJkJOXjwQAAAAC/hook-captain-james-hook.gif)
 
