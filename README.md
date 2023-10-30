@@ -17,7 +17,7 @@
 ---
 
 ### Do you like pirates?
-- [ ] Who doesn't?
+- [x] Who doesn't?
 - [ ] Yes!
 
 ---
