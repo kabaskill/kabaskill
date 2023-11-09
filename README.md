@@ -22,9 +22,5 @@
 
 ---
 
-![dustin hoffman hook](https://media.tenor.com/CviJkJOXjwQAAAAC/hook-captain-james-hook.gif)
-
-<img src="https://bernet.ch/wp_website/wp-content/uploads/2018/08/meme_usethefont.jpg" alt="memes" style="width:500px;">
-
 <img src="https://media.tenor.com/HkjJ_sOflykAAAAj/oldpirate-ultimatejuice.gif" alt="gifs" style="width:500px;">
 
