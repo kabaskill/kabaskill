@@ -22,5 +22,5 @@
 
 ---
 
-<img src="https://media.tenor.com/HkjJ_sOflykAAAAj/oldpirate-ultimatejuice.gif" alt="gifs" style="width:500px;">
+<img src="https://media.tenor.com/HkjJ_sOflykAAAAj/oldpirate-ultimatejuice.gif" alt="gifs" style="width:200px;">
 
