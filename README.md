@@ -1,7 +1,5 @@
-
-# 💫 About Me:
-🔭 I’m currently working on [Gamedalf](https://gamedalf.vercel.app)<br>🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)<br>💬 Ask me about **Music, Video Games and Astrophysics**<br>
-
+# 💫 About Me:<br>
+🔭 I’m currently working on [Gamedalf](https://gamedalf.vercel.app)<br><br>🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)<br><br>💬 Ask me about **Music, Video Games and Astrophysics**<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.kabaskill) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzkabasakal) 
@@ -15,5 +13,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
