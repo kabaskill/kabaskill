@@ -11,6 +11,3 @@ I'm Oguz, Front End Developer and Audio Engineer from Darmstadt <br><br>🔭 I�
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabaskill&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
