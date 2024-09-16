@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Oguz, Front End Developer and Audio Engineer from Darmstadt <br><br>🔭 I’m currently working on [FugueState](https://github.com/kabaskill/fugue-state)<br><br>💬 Ask me about **Music🎵, Video Games🎮 and Astrophysics🌌**<br>
+I'm Oguz, Front End Developer and Audio Engineer from Darmstadt <br><br>🔭 I’m currently working on [FugueState](https://kabaskill.github.io/fugue-state-react/)<br><br>💬 Ask me about **Music🎵, Video Games🎮 and Astrophysics🌌**<br>
 
 ## Check out my [Portfolio Web Site](https://oguzkabasakal.com) 🚀
 
